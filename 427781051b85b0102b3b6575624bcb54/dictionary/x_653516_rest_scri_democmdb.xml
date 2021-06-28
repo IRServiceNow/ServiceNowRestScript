@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb" label="democmdb" max_length="40" name="x_653516_rest_scri_democmdb" type="collection"/>
+</database>
